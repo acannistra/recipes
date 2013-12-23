@@ -1,0 +1,3 @@
+[submodule "Recipe-to-Markdown"]
+	path = Recipe-to-Markdown
+	url = https://github.com/tdhopper/Recipe-to-Markdown.git
